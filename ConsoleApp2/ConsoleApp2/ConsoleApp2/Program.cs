@@ -22,7 +22,7 @@ namespace ConsoleApp2
             // seriesfor(); //цикл for
             // seriesdo(); //цикл do
             // serieswhile(); // цикл while
-            array();
+            array();// тест
             // OperatingSystem os = System.Environment.OSVersion; // вывод информации о системе, интересный класс Enviroment
 
 
